@@ -1,0 +1,22 @@
+# Ignore git metadata
+.git
+.gitignore
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore notebooks & large datasets
+*.ipynb
+*.csv
+*.tsv
+*.xlsx
+
+# Ignore logs & temporary files
+*.log
+*.tmp
+
+# Ignore virtual environments
+venv/
+.env
